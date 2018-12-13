@@ -18,7 +18,7 @@ If you plan on integrating the SDK to your android app, please avoid cloning thi
 
 **Download dependencies**
 
-If you are using android studio (or gradle dependencies), add the following code snippet in your build.gradle file (Module: your_server's_module_name)
+If you are using android studio (or gradle dependencies), add the following code snippet in your build.gradle file
 
 ```groovy
 repositories {
@@ -46,7 +46,7 @@ Maven (from `http://dl.bintray.com/africastalking/java`)
 
 **download dependencies**
 
-Go to the build.gradle file (Module: app [or the name of the module your app's code is in]) and add the following code snippet.
+Go to the build.gradle file for your app module and add the following code snippet.
 
 ```groovy
 
